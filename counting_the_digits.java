@@ -17,3 +17,7 @@ public class counting_the_digits {
         System.out.println(" digit is "+count);
     }
 }
+// output= 
+// enter a number:
+// 123456
+//  digit is 6
